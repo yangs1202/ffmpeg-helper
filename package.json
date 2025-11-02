@@ -1,0 +1,15 @@
+{
+  "name": "ffmpeg-helper",
+  "version": "1.0.0",
+  "description": "FFmpeg CLI helper for common tasks",
+  "bin": {
+    "ffmpeg-helper": "./bin/ffmpeg-helper.js"
+  },
+  "keywords": [
+    "ffmpeg",
+    "cli",
+    "video"
+  ],
+  "author": "",
+  "license": "MIT"
+}
