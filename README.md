@@ -20,7 +20,7 @@ ffmpeg-helper cut <초> <입력파일> <출력파일>
 
 **예시:**
 ```bash
-ffmpeg-helper cut 60 /Volumes/yangs-svr/medias/251027_소풍_720P.mp4 /Volumes/yangs-svr/medias/251027.mp4
+ffmpeg-helper cut 60 /Volumes/aaa.mp4 /Volumes/bbb.mp4
 ```
 
 이 명령은 60초마다 영상을 잘라서 다음과 같은 파일들을 생성합니다:
